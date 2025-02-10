@@ -34,5 +34,24 @@
   }
 
 
-  
- 
+  .form-contanier{
+    background-color: rgba(231, 181, 89, 0.781);
+    max-width: 35rem;
+    padding: .2rem;
+    margin: auto;
+    border-radius: 8px;
+    height: 35rem;
+    border: solid rgba(143, 125, 93, 0.904);
+  }
+
+  .form{
+    padding: 1rem .1rem 1rem .1rem;
+  }
+
+.form-contanier > input {
+  width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
